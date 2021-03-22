@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-purgecss": "^4.0.3"
+  },
+  "name": "projet4",
+  "description": "Repo Git pour projet 3: Dynamisez une page web avec des animations CSS",
+  "version": "1.0.0",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RomainFortin/projet4.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RomainFortin/projet4/issues"
+  },
+  "homepage": "https://github.com/RomainFortin/projet4#readme"
+}
