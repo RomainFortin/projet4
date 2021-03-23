@@ -12,5 +12,11 @@ function style () {
             .pipe(gulp.dest('./'))
 }
 
+function watch() {
+    gulp.watch('css_source/**/*.css', style);
+};
+
+
 
 exports.style = style;
+exports.watch = watch;
